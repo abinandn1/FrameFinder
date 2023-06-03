@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916318379656",
+    "project_id": "framefinder-f7818",
+    "storage_bucket": "framefinder-f7818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916318379656:android:5ff04d20988d97f6a1893d",
+        "android_client_info": {
+          "package_name": "com.example.framefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916318379656-e4vf18d3m696gmdlmnci2f4ghj75pput.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JEB_8X_VY238vrjKQfilcI8dYWdzjuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916318379656-e4vf18d3m696gmdlmnci2f4ghj75pput.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
